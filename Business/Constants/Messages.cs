@@ -51,5 +51,11 @@ namespace Business.Constants
         public static string SuccessfulLogin = "Sisteme giriş başarılı.";
         public static string UserAlreadyExists = "Bu kullanıcı zaten mevcut";
         public static string AccessTokenCreated = "Access token başarıyla oluşturuldu.";
+
+        public static string CarImageAdded = "Yeni araba resmi yüklendi";
+        public static string CarImageDeleted = "Araba resmi silindi";
+        public static string CarImagesListed = "Araba resimleri listelendi";
+        public static string CarImageUpdated = "Araba resmi güncellendi";
+        public static string CarImageLimitExceded = "Araba resmi yükleme limiti dolduğu için yükleme başarısız";
     }
 }
